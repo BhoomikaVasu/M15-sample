@@ -1,11 +1,10 @@
 package Practice2;
 
-public class Sample2 {
+public class Sample3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("hii everyone");
-		System.out.println("pushing to push");
+		System.out.println("pulling operation");
 
 	}
 
